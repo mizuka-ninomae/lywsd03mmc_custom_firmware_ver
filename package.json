@@ -1,0 +1,41 @@
+{
+  "name": "lywsd03mmc_custom_firmware_ver",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "lint": "echo \"Warning: lint is not used\" && exit 0",
+    "build": "echo \"Warning: build is not used\" && exit 0"
+  },
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=1.0.0"
+  },
+  "dependencies": {
+    "async-lock": "^1.2.8",
+    "bluez": "^0.4.3",
+    "child_process": "^1.0.2",
+    "path": "^0.12.7"
+  },
+  "keywords": [
+    "xiaomi",
+    "lywsd03mmc",
+    "Temperature",
+    "custom firmware",
+    "atc1441 format",
+    "Humidity",
+    "Meter",
+    "sensor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizuka-ninomae/lywsd03mmc.git"
+  },
+  "author": "mizuka-ninomae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizuka-ninomae/lywsd03mmc/issues"
+  },
+  "homepage": "https://github.com/mizuka-ninomae/lywsd03mmc#readme"
+}
